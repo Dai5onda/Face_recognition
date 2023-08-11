@@ -7,4 +7,4 @@ This is running on raspberry pi 4.
 
 
 
-This is tutorail project from https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826 
+This is tutorial project from https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826 
